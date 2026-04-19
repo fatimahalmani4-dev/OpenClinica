@@ -15,6 +15,7 @@
 	</modules>
 
 	<properties>
+		<sonar.organization>fatimahalmani4-dev</sonar.organization>
 		<!-- Default configuration activation -->
 		<config.id>default</config.id>
 
